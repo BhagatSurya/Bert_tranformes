@@ -1,25 +1,5 @@
-# Back to transformers
-This repository contains My compilelation  of transformers Models 
-🤖 
+# Bert with HuggyFace tranformes 🤗 
 
-## 🚀 About Me
-I'm Bhagat Surya. A Data Science Practitioner from India
-This was created on the 19th year. 
+<img src="https://www.content-technologist.com/content/images/size/w500/2022/03/bert.gif"> 
 
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-if your working in the Local 
-please Do check **Tensorflow** , **pip** ,
-**transformers** from **huggingface** are installed in new
-**Conda** Env  if your working in or Colab or any other Cloud System  
-do set Batch Size to **32** if even it show you Error 
-reduce  the Batch Size minimum as possable so that it not crash while Traing 
+### fake new detection using  google bert Another Happy Weekend End Project ✨🛠
